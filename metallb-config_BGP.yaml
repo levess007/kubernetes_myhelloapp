@@ -7,7 +7,7 @@ data:
   config: |
     peers:
     - peer-address: 10.0.0.254
-      peer-asn: 64501
+      peer-asn: 64500
       my-asn: 64500
     address-pools:
     - name: default
